@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background: rgb(143, 204, 228);
+    border: mediumblue 10px;
+    font-family: 'Limelight', cursive;
+
+}
+
+hr {
+ color: mediumblue 10px; 
+
+}
+
+button {
+    font-family: 'Limelight', cursive;
+    background: rgb(228, 143, 143);
+    
+}
+
+input {
+    font-family: 'Limelight', cursive;
+}
+
+div {
+    font-family: 'Limelight', cursive;
+}
+
+span {
+    font-family: 'Limelight', cursive;
+}
+
